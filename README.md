@@ -3,7 +3,7 @@
 I'm a Brazilian developer, and I like to work with: HTML, CSS, JavaScript and Python!
 
 ### ❓ • Can you help me?
-If you want to help me, advise me or even chat, just call me on some of my discord profiles! [**Roycy¹#6768**](https://discord.com/users/758662985568092180) or [**Roycy²#8742**](https://discord.com/users/717766639260532826)
+If you want to help me, advise me or even chat, just call me on some of my discord profiles! [**Roycy¹#6768**](https://discord.com/users/758662985568092180) or [**Roycy²#8742**](https://discord.com/users/717766639260532826)!
 
 ## 🌐Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/qnJURz9uB5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roycyofc) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@roycyofc) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/roycye) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCCsAce_V0D2lqjKgALVU9KQ) 
