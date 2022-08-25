@@ -3,7 +3,7 @@
 Sou um desenvolvedor brasileiro, com conhecimento básico no inglês, Gosto mais de trabalhar com Front-End, mas também gosto de mexer com Back-End para ir aprimorando minha capacidade de desenvolvimento!
 
 ### ❓ • Como pode me ajudar?
-Caso você queira me reportar algum problema ou me dar algum feedback você pode me enviar uma mensagem no Discord: [**ROY#8742**](https://discord.com/users/717766639260532826)!
+Caso você queira me reportar algum problema ou me dar algum feedback você pode me enviar uma mensagem no Discord: [**ROY#8742**](https://discord.com/users/717766639260532826) ou me envie um email em contatoroycy@gmail.com!
 
 ## 🌐Redes Sociais:
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCCsAce_V0D2lqjKgALVU9KQ) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/roycye) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roycyofc)
